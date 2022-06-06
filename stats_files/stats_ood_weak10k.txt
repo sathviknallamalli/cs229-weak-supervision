@@ -1,0 +1,54 @@
+
+F1:
+{'Video_Games': 0.9025641025641026
+Luxury_Beauty': 0.8965517241379312
+Patio_Lawn_and_Garden': 0.8817574021012416
+Prime_Pantry': 0.9072411729503292
+Musical_Instruments': 0.9445324881141046
+Digital_Music': 0.9459459459459459
+Software': 0.8181818181818182
+Automotive': 0.9053999187982136
+Industrial_and_Scientific': 0.9183222958057395
+Cell_Phones_and_Accessories': 0.9101123595505617
+All_Beauty': 0.9230769230769231
+Grocery_and_Gourmet_Food': 0.9114661654135339
+Electronics': 0.905620109082286
+Gift_Cards': 1.0
+Office_Products': 0.9066790784268093
+CDs_and_Vinyl': 0.9154757043691302
+Tools_and_Home_Improvement': 0.9010268734979244
+Home_and_Kitchen': 0.888135593220339
+Sports_and_Outdoors': 0.9100155682407888
+Arts_Crafts_and_Sewing': 0.9097080787508487
+Clothing_Shoes_and_Jewelry': 0.8804105611452494
+Magazine_Subscriptions': 1.0
+Toys_and_Games': 0.9193742478941034
+Pet_Supplies': 0.8843923348461925}
+
+roc:
+{'Video_Games': 0.5267177073637567
+Luxury_Beauty': 0.5033700980392156
+Patio_Lawn_and_Garden': 0.5273497068328005
+Prime_Pantry': 0.54406360584339
+Musical_Instruments': 0.4775641025641026
+Digital_Music': 0.57398753894081
+Software': 0.45
+Automotive': 0.5170138981159151
+Industrial_and_Scientific': 0.5355072463768116
+Cell_Phones_and_Accessories': 0.5426467556526006
+All_Beauty': 0.46153846153846156
+Grocery_and_Gourmet_Food': 0.5191403761851794
+Electronics': 0.51596407147618
+Office_Products': 0.536995128084237
+CDs_and_Vinyl': 0.513572079263288
+Tools_and_Home_Improvement': 0.5176326482641423
+Home_and_Kitchen': 0.5384837286580201
+Sports_and_Outdoors': 0.5290896373423998
+Arts_Crafts_and_Sewing': 0.5301966525804412
+Clothing_Shoes_and_Jewelry': 0.5349985809615987
+Toys_and_Games': 0.5176448882452803
+Pet_Supplies': 0.5197367266934171}
+
+The computed mean : 0.5196915290464568
+Standard Deviation of sample is 0.027481370955577532 
+0.5196915290464568 ± 0.05496274191
