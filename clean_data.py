@@ -1,5 +1,4 @@
-import pandas as pd
-from random import sample
+
 import re
 from gensim.parsing.preprocessing import preprocess_string, strip_punctuation, \
     strip_multiple_whitespaces, strip_numeric, remove_stopwords, strip_short
@@ -10,6 +9,15 @@ FILTERS = [lambda x: x.lower(), strip_punctuation, strip_multiple_whitespaces,
 
 def process(text):
     return preprocess_string(text, filters=FILTERS)
+
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
 
 
 def label(score):
